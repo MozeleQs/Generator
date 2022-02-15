@@ -1,0 +1,20 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev:watch": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dbd.js": "^1.9.4",
+    "nodemon": "^2.0.7",
+    "quick.db": "^7.1.3"
+  }
+}
